@@ -57,7 +57,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ - Join", "LINQ - Join\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseDeDatos", "BaseDeDatos\BaseDeDatos.csproj", "{9005A29F-AED1-45C3-83A5-B67690CB9D67}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionalProgramming", "FuncionalProgramming\FuncionalProgramming.csproj", "{110ABBFE-8C64-4D66-970C-51ACF4ADF97D}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BD", "..\BD\BD.csproj", "{E33996FA-6C7D-4254-9BBE-2D4A39969743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkSystem", "EntityFrameworkSystem\EntityFrameworkSystem.csproj", "{56BFF495-DD9F-46B5-B947-DC4D65A2310D}"
+>>>>>>> 3aeb3ea... Entity Framework added
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
